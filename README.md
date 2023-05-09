@@ -1,3 +1,3 @@
 # bootstrap-tindog
 
-A website created using Bootstrap.
+A static website created using Bootstrap.
